@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PruebaJavier-Nicolás</string>
+    <string name="ingrese_bpm">Ingrese BPM</string>
+    <string name="saludlife">SaludLife</string>
+    <string name="ingrese">Ingrese %</string>
+    <string name="l_mite_superior_ingrese">Límite Superior (Ingrese %)</string>
+    <string name="l_mite_superior_ingrese_bpm">Límite Superior (Ingrese BPM)</string>
+    <string name="ingrese_bpm1">Ingrese BPM</string>
+    <string name="l_mite_inferior_ingrese">Límite Inferior (Ingrese %)</string>
+    <string name="saturaci_n_de_ox_geno">Saturación de Oxígeno</string>
+    <string name="saludlife1">SaludLife</string>
+</resources>
