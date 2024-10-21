@@ -8,6 +8,7 @@
     android:background="@drawable/medicina"
     android:gravity="top">
 
+<!-- Arreglando git -->
 
     <LinearLayout
         android:layout_width="match_parent"
